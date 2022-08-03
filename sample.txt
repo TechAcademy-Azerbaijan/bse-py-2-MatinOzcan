@@ -1,0 +1,4 @@
+Function name	|	Worked time	|	Arguments as list	|	Arguments as dictionary	|	Function results	|
+sum	|	2022-08-03 16:25:25.605034	|	(1, 2)	|		|		|
+divide	|	2022-08-03 16:25:25.620654	|		|	{'a': 4, 'b': 2}	|		|
+divide	|	2022-08-03 16:25:25.622002	|	(10, 0)	|		|		|
